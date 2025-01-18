@@ -26,6 +26,15 @@ A JavaScript script to automatically unsubscribe from non-verified YouTube chann
 
 ---
 
+## Notes
+
+- **Scrolling Issue:** The scrolling feature currently does not properly detect and load new channels after scrolling. I attempted to fix this but ran out of time due to other commitments. I plan to address this issue in the future.
+- **Help Needed:** If you have a solution to fix the scrolling issue, feel free to message me or submit a pull request! Your contribution would be greatly appreciated. Thank you!
+- **Browser Compatibility:** Tested on Chrome. May work on other modern browsers. But I recommend using Chrome.
+- **Use at Your Own Risk:** The script interacts with YouTube's UI elements. Ensure you are aware of potential risks or policy violations.
+
+---
+
 ## Script
 
 ```javascript
