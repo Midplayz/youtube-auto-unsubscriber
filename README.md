@@ -1,4 +1,4 @@
-# YouTube Auto Unsubscribe Script
+# YouTube Auto Unsubscribe Script (Unverified Channels Only)
 
 A JavaScript script to automatically unsubscribe from non-verified YouTube channels using your browser's console. The script scrolls through your subscribed channels, detects non-verified channels, and unsubscribes from them while ensuring smooth scrolling and focusing on the current channel being processed.
 
